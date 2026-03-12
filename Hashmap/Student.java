@@ -13,6 +13,6 @@ public class Student {
     }
     static  String print(){
 
-        return "Main";
+        return "Student";
     }
 }
