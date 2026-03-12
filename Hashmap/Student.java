@@ -11,8 +11,8 @@ public class Student {
 
         print();
     }
+    static  String print(){
 
-    static String print(){
-        return "student";
+        return "Main";
     }
 }
